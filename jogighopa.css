@@ -730,7 +730,7 @@ footer{
   text-align: justify;
   /* padding-right: 5rem; */
   padding-top: 1rem;
-  padding-right: 9rem;
+  padding-right: 3rem;
   padding-bottom: 5rem;
 
   
@@ -754,19 +754,12 @@ footer{
 
 .new_approach_parallax_left img{
  
-  /* width: 80%; */
-  /* height: 80%; */
-  /* height: 80%;
-  position: relative;
-  left: -115px;
-  top: 190px; */
-
 
 
   height: 80.5%;
     position: relative;
     left: -125px;
-    top: 162px;
+    top: 136px;
 }
 
 .new_approach_parallax_right{
