@@ -577,12 +577,12 @@ footer{
 }
 
 #trolley{
-  top: -45px;
+  top: -40px;
 }
 #map_txt{
   text-align: center;
   position: relative;
-  top: 130px;
+  top: 118px;
   font-size: 1.5rem;
   font-weight: 500;
   color: #005da5;
