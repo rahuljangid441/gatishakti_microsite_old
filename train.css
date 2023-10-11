@@ -141,21 +141,10 @@ ul li:hover ul.dropdown li{
   pointer-events: none;
 }
 
-.parallax-home img#moon{
-  mix-blend-mode: screen;
-}
-.parallax-home #text{
-  position: absolute;
-  font-size: 2.5rem;
-  text-shadow: 0 10px 4px rgba(0, 0, 0, 0.85);
-  top: 80%;
-  left: 3%;
-  color: white;
-}
 
 .parallax-home #main_title{
   position: absolute;
-  font-size: 3.5rem;
+  font-size: 3rem;
   /* text-shadow: 0 10px 4px rgba(0, 0, 0, 0.85); */
   text-transform: uppercase;
   text-align: center;
@@ -421,7 +410,7 @@ ul li:hover ul.dropdown li{
 .inner_impact_part p{
   color: white;
   padding: 0rem 2.5rem;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 footer{
