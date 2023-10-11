@@ -303,6 +303,7 @@ ul li:hover ul.dropdown li{
 
 #edge_approach{
   margin-top: 6rem;
+  font-weight: 500;
 }
 .proj_vision{
   /* margin-top: 6rem; */
@@ -371,7 +372,7 @@ ul li:hover ul.dropdown li{
 .inner_impact_part p{
   color: white;
   padding: 0rem 2rem;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 footer{
@@ -748,7 +749,7 @@ footer{
     color: #005da5;
     text-align: center;
     position: relative;
-    left: -90px;
+    left: -7px;
 }
 
 .new_approach_parallax_left img{
@@ -765,7 +766,7 @@ footer{
   height: 80.5%;
     position: relative;
     left: -125px;
-    top: 115px;
+    top: 162px;
 }
 
 .new_approach_parallax_right{
@@ -831,7 +832,7 @@ footer{
 
 .parallax-home #main_title{
   position: absolute;
-  font-size: 3.5rem;
+  font-size: 3rem;
   /* text-shadow: 0 10px 4px rgba(0, 0, 0, 0.85); */
   text-transform: uppercase;
   text-align: center;
@@ -844,7 +845,7 @@ footer{
 #map_text{
   text-align: center;
   position: relative;
-  top: 60px;
+  top: 45px;
   font-size: 1.5rem;
   font-weight: 500;
   color: #005da5;
