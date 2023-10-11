@@ -374,6 +374,7 @@ ul li:hover ul.dropdown li{
 .inner_impact_part p{
   color: white;
   padding: 0rem 2rem;
+  font-size:16px;
 }
 
 footer{
@@ -600,7 +601,7 @@ section {
   #map_txt{
     text-align: center;
     position: relative;
-    top: 165px;
+    top: 150px;
     font-size: 1.5rem;
     font-weight: 500;
     color: #005da5;
