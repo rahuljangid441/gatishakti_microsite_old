@@ -400,6 +400,7 @@ ul li:hover ul.dropdown li{
   text-align: center;
   top: 77px;
   z-index: 1;
+  left: 70px;
 }
 
 .proj_approach img{
