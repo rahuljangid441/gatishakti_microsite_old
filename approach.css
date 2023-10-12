@@ -397,8 +397,8 @@ ul li:hover ul.dropdown li{
 
 #video_txt{
   position: relative;
-  text-align: left;
-  top: 165px;
+  text-align: center;
+  top: 77px;
   z-index: 1;
 }
 
@@ -606,11 +606,11 @@ footer{
   .graphic_3 video{
     width: 117%;
     position:relative;
-    left: -4rem;
+    left: 0rem;
 
  
 /*to decrease the space between lower text of gatishakti edge and approach and lower graphic */
-    /* margin-top: -365px; */
+    margin-top: -88px;
     /* margin-bottom: 8rem */
   }
 
@@ -619,8 +619,8 @@ footer{
     top: 188px;
     text-align: center;
     /* left: 235px; */
-    left: 408px;
-    font-size: 3.5rem;
+    left: 478px;
+    font-size: 3rem;
     font-weight: 600;
     color: white;
   }
