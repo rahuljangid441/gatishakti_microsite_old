@@ -502,11 +502,11 @@ footer{
 
   .heading_overlay h1{
     position: absolute;
-    top: 188px;
+    top: 155px;
     text-align: center;
     /* left: 235px; */
-    left: 570px;
-    font-size: 3.5rem;
+    left: 485px;
+    font-size: 3rem;
     font-weight: 600;
   }
 
