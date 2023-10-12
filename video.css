@@ -215,7 +215,7 @@ footer{
   }
 
   .video_test ul li{
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 5px;
   }
 
@@ -227,44 +227,44 @@ footer{
 
   .video_test_2{
     position: relative;
-    top: -383px;
+    top: -375px;
     left: 50rem;
   }
 
   .video_test_3{
     position: relative;
     left: 0rem;
-    top: -618px;
+    top: -570px;
   }
 
   .video_test_4{
     position: relative;
-    left: 50rem;
-    top: -870px;
+    left: 51rem;
+    top: -835px;
   }
 
   .video_test_5{
     position: relative;
     left: 0rem;
-    top: -1100px;
+    top: -1040px;
   }
 
   .video_test_6{
     position: relative;
     left: 53rem;
-    top: -1336px;
+    top: -1305px;
   }
 
   .video_test_7{
     position: relative;
-    top: -1560px;
+    top: -1510px;
     left: 0rem;
   }
 
   .video_test_8{
     position: relative;
     left: 53rem;
-    top: -1781px;
+    top: -1777px;
   }
 
   .video_test video{
